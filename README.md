@@ -1,5 +1,5 @@
 # Hi, I’m Swastik 👋
-I'm an 19 year old full-stack developer. I love open-source and am willing to contribute to any projects that I am able to. 
+I'm a 20 year old full-stack developer. I love open-source and am willing to contribute to any projects that I am able to. 
 
 Most of my projects are [on my other github account](https://github.com/CodeWithSwastik).
 
